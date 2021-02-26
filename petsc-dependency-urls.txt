@@ -1,53 +1,65 @@
 
 adios
-     git://https://github.com/ornladios/ADIOS.git
+    # git ref: 6f24c5e
+    git://https://github.com/ornladios/ADIOS.git
 
 adios2
-     git://https://github.com/ornladios/ADIOS2.git
+    # git ref: 346d25165e1f906bd7f4254fa55c2dc33097c377
+    git://https://github.com/ornladios/ADIOS2.git
 
 adolc
-     git://https://github.com/coin-or/ADOL-C.git
-     https://www.coin-or.org/download/source/ADOL-C/ADOL-C-2.7.2.tgz
+    # git ref: ac89ea4
+    git://https://github.com/coin-or/ADOL-C.git
+    https://www.coin-or.org/download/source/ADOL-C/ADOL-C-2.7.2.tgz
 
 amrex
-     git://https://github.com/petsc/amrex
-     https://github.com/petsc/amrex/archive/09bf302d4.tar.gz
+    # git ref: 09bf302d4
+    git://https://github.com/petsc/amrex
+    https://github.com/petsc/amrex/archive/09bf302d4.tar.gz
 
 # no downloads for BlasLapack
 
 chaco
-     git://https://bitbucket.org/petsc/pkg-chaco.git
-     https://bitbucket.org/petsc/pkg-chaco/get/v2.2-p3.tar.gz
+    # git ref: v2.2-p3
+    git://https://bitbucket.org/petsc/pkg-chaco.git
+    https://bitbucket.org/petsc/pkg-chaco/get/v2.2-p3.tar.gz
 
 chombo
-     git://https://bitbucket.org/petsc/pkg-chombo-3.2.git
-     https://bitbucket.org/petsc/pkg-chombo-3.2/get/2469eee.tar.gz
+    # git ref: 2469eee
+    git://https://bitbucket.org/petsc/pkg-chombo-3.2.git
+    https://bitbucket.org/petsc/pkg-chombo-3.2/get/2469eee.tar.gz
 
 codipack
-     git://https://github.com/SciCompKL/CoDiPack.git
+    # git ref: v1.9.1
+    git://https://github.com/SciCompKL/CoDiPack.git
 
 colpack
-     git://https://github.com/caidao22/ColPack.git
+    # git ref: 043e3cd
+    git://https://github.com/caidao22/ColPack.git
 
 glvis
-     git://https://github.com/stefanozampini/glvis.git
+    # git ref: bca608d856fe8183f9f7bf5e57d493af0b02f616
+    git://https://github.com/stefanozampini/glvis.git
 
 mfem
-     git://https://github.com/mfem/mfem.git
+    # git ref: v4.0
+    git://https://github.com/mfem/mfem.git
 
 moab
-     git://https://bitbucket.org/fathomteam/moab.git
-     http://ftp.mcs.anl.gov/pub/fathom/moab-5.0.0.tar.gz
+    # git ref: c4eed56fd6d2
+    git://https://bitbucket.org/fathomteam/moab.git
+    http://ftp.mcs.anl.gov/pub/fathom/moab-5.0.0.tar.gz
 
 # no downloads for MPI
 
 mpich
-     https://www.mpich.org/static/downloads/3.3.2/mpich-3.3.2.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/mpich-3.3.2.tar.gz
+    https://www.mpich.org/static/downloads/3.3.2/mpich-3.3.2.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/mpich-3.3.2.tar.gz
 
 mumps
-     git://https://bitbucket.org/petsc/pkg-mumps.git
-     https://bitbucket.org/petsc/pkg-mumps/get/v5.3.3-p2.tar.gz
+    # git ref: v5.3.3-p2
+    git://https://bitbucket.org/petsc/pkg-mumps.git
+    https://bitbucket.org/petsc/pkg-mumps/get/v5.3.3-p2.tar.gz
 
 # no downloads for Mathematica
 
@@ -56,209 +68,239 @@ mumps
 # no downloads for MatlabEngine
 
 openmpi
-     https://download.open-mpi.org/release/open-mpi/v4.0/openmpi-4.0.3.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/openmpi-4.0.3.tar.gz
+    https://download.open-mpi.org/release/open-mpi/v4.0/openmpi-4.0.3.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/openmpi-4.0.3.tar.gz
 
 party
-     git://https://bitbucket.org/petsc/pkg-party.git
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/PARTY_1.99p1.tar.gz
+    # git ref: v1.99p1
+    git://https://bitbucket.org/petsc/pkg-party.git
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/PARTY_1.99p1.tar.gz
 
 ptscotch
-     git://https://gitlab.inria.fr/scotch/scotch.git
-     https://gitlab.inria.fr/scotch/scotch/-/archive/v6.0.9/scotch-v6.0.9.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/scotch-v6.0.9.tar.gz
+    # git ref: v6.0.9
+    git://https://gitlab.inria.fr/scotch/scotch.git
+    https://gitlab.inria.fr/scotch/scotch/-/archive/v6.0.9/scotch-v6.0.9.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/scotch-v6.0.9.tar.gz
 
 pastix
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/pastix_5.2.3.tar.bz2
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/pastix_5.2.3.tar.bz2
 
 random123
-     http://www.deshawresearch.com/downloads/download_random123.cgi/Random123-1.09.tar.gz
+    http://www.deshawresearch.com/downloads/download_random123.cgi/Random123-1.09.tar.gz
 
 samrai
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/SAMRAI-v2.4.4p.tar.gz
-     https://computation-rnd.llnl.gov/SAMRAI/download/SAMRAI-v2.4.4.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/SAMRAI-v2.4.4p.tar.gz
+    https://computation-rnd.llnl.gov/SAMRAI/download/SAMRAI-v2.4.4.tar.gz
 
 suitesparse
-     git://https://github.com/DrTimothyAldenDavis/SuiteSparse
-     https://github.com/DrTimothyAldenDavis/SuiteSparse/archive/v5.7.1.tar.gz
+    # git ref: v5.7.1
+    git://https://github.com/DrTimothyAldenDavis/SuiteSparse
+    https://github.com/DrTimothyAldenDavis/SuiteSparse/archive/v5.7.1.tar.gz
 
 superlu
-     git://https://github.com/xiaoyeli/superlu
-     https://github.com/xiaoyeli/superlu/archive/a3d5233.tar.gz
+    # git ref: a3d5233
+    git://https://github.com/xiaoyeli/superlu
+    https://github.com/xiaoyeli/superlu/archive/a3d5233.tar.gz
 
 superlu_dist
-     git://https://github.com/xiaoyeli/superlu_dist
-     https://github.com/xiaoyeli/superlu_dist/archive/v6.3.0.tar.gz
+    # git ref: v6.3.0
+    git://https://github.com/xiaoyeli/superlu_dist
+    https://github.com/xiaoyeli/superlu_dist/archive/v6.3.0.tar.gz
 
 triangle
-     git://https://bitbucket.org/petsc/pkg-triangle
-     https://bitbucket.org/petsc/pkg-triangle/get/v1.3-p2.tar.gz
+    # git ref: v1.3-p2
+    git://https://bitbucket.org/petsc/pkg-triangle
+    https://bitbucket.org/petsc/pkg-triangle/get/v1.3-p2.tar.gz
 
 trilinos
-     git://https://github.com/balay/trilinos
-     https://github.com/balay/trilinos/archive/fab6197820.tar.gz
+    # git ref: fab6197820
+    git://https://github.com/balay/trilinos
+    https://github.com/balay/trilinos/archive/fab6197820.tar.gz
 
 # no downloads for X
 
 zoltan
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/zoltan_distrib_v3.83.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/zoltan_distrib_v3.83.tar.gz
 
 # no downloads for __init__
 
 adblaslapack
-     git://https://xgitlab.cels.anl.gov/schanen/adblaslapack.git
+    # git ref: e55b6ad4234066617ef198cbf080f0d07d151823
+    git://https://xgitlab.cels.anl.gov/schanen/adblaslapack.git
 
 alquimia
-     https://github.com/LBL-EESA/alquimia-dev/archive/xsdk-0.2.0-rc1.tar.gz
-     git://https://github.com/LBL-EESA/alquimia-dev.git
+    # git ref: xsdk-0.2.0-rc1
+    https://github.com/LBL-EESA/alquimia-dev/archive/xsdk-0.2.0-rc1.tar.gz
+    git://https://github.com/LBL-EESA/alquimia-dev.git
 
 ascem-io
-     http://software.lanl.gov/ascem/tpls/ascem-io-2.2.tar.gz
+    http://software.lanl.gov/ascem/tpls/ascem-io-2.2.tar.gz
 
 bamg
-     git://https://gitlab.com/knepley/bamg
-     https://gitlab.com/knepley/bamg/archive/a02ea7456e23e63ae9e90f6d3a9403c91ecd5688.tar.gz
+    # git ref: a02ea7456e23e63ae9e90f6d3a9403c91ecd5688
+    git://https://gitlab.com/knepley/bamg
+    https://gitlab.com/knepley/bamg/archive/a02ea7456e23e63ae9e90f6d3a9403c91ecd5688.tar.gz
 
 blis
-     git://https://github.com/flame/blis.git
-     https://github.com/flame/blis/archive/0.7.0.tar.gz
+    # git ref: 0.7.0
+    git://https://github.com/flame/blis.git
+    https://github.com/flame/blis/archive/0.7.0.tar.gz
 
 boost
-     http://downloads.sourceforge.net/project/boost/boost/1.61.0/boost_1_61_0.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/boost_1_61_0.tar.gz
+    http://downloads.sourceforge.net/project/boost/boost/1.61.0/boost_1_61_0.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/boost_1_61_0.tar.gz
 
 c2html
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/c2html.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/c2html.tar.gz
 
 # no downloads for cgns
 
 cmake
-     https://cmake.org/files/v3.15/cmake-3.15.6.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/cmake-3.15.6.tar.gz
+    https://cmake.org/files/v3.15/cmake-3.15.6.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/cmake-3.15.6.tar.gz
 
 combblas
-     http://eecs.berkeley.edu/~aydin/CombBLAS_FILES/CombBLAS_beta_16_1.tgz
+    http://eecs.berkeley.edu/~aydin/CombBLAS_FILES/CombBLAS_beta_16_1.tgz
 
 concurrencykit
-     http://concurrencykit.org/releases/ck-0.4.5.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/ck-0.4.5.tar.gz
+    http://concurrencykit.org/releases/ck-0.4.5.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/ck-0.4.5.tar.gz
 
 ctetgen
-     git://https://bitbucket.org/petsc/ctetgen
-     https://bitbucket.org/petsc/ctetgen/get/ctetgen-0.6.tar.gz
+    # git ref: ctetgen-0.6
+    git://https://bitbucket.org/petsc/ctetgen
+    https://bitbucket.org/petsc/ctetgen/get/ctetgen-0.6.tar.gz
 
 cub
-     git://https://github.com/NVlabs/cub
-     https://github.com/NVlabs/cub/archive/v1.8.0.tar.gz
+    # git ref: v1.8.0
+    git://https://github.com/NVlabs/cub
+    https://github.com/NVlabs/cub/archive/v1.8.0.tar.gz
 
 # no downloads for cuda
 
 # no downloads for cxxlibs
 
 egads
-     git://https://github.com/bldenton/EGADSlite.git
+    # git ref: 11501e852fd2b647c0788bc12f7a42ce9e427934
+    git://https://github.com/bldenton/EGADSlite.git
 
 eigen
-     git://https://gitlab.com/libeigen/eigen
-     https://gitlab.com/libeigen/eigen/-/archive/3.3.7/eigen-3.3.7.tar.gz
+    # git ref: 3.3.7
+    git://https://gitlab.com/libeigen/eigen
+    https://gitlab.com/libeigen/eigen/-/archive/3.3.7/eigen-3.3.7.tar.gz
 
 elemental
-     git://https://github.com/elemental/Elemental
+    # git ref: origin/petsc/0.87.7
+    git://https://github.com/elemental/Elemental
 
 exodusii
-     git://https://github.com/gsjaardema/seacas.git
-     https://github.com/gsjaardema/seacas/archive/e7308f4401dd8692318d22bc6abb1dc84d3fb404.tar.gz
+    # git ref: e7308f4401dd8692318d22bc6abb1dc84d3fb404
+    git://https://github.com/gsjaardema/seacas.git
+    https://github.com/gsjaardema/seacas/archive/e7308f4401dd8692318d22bc6abb1dc84d3fb404.tar.gz
 
 f2cblaslapack
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/f2cblaslapack-3.4.2.q4.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/f2cblaslapack-3.4.2.q4.tar.gz
 
 fblaslapack
-     git://https://bitbucket.org/petsc/pkg-fblaslapack
-     https://bitbucket.org/petsc/pkg-fblaslapack/get/v3.4.2-p3.tar.gz
+    # git ref: v3.4.2-p3
+    git://https://bitbucket.org/petsc/pkg-fblaslapack
+    https://bitbucket.org/petsc/pkg-fblaslapack/get/v3.4.2-p3.tar.gz
 
 fftw
-     http://www.fftw.org/fftw-3.3.8.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/fftw-3.3.8.tar.gz
+    http://www.fftw.org/fftw-3.3.8.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/fftw-3.3.8.tar.gz
 
 # no downloads for flibs
 
 giflib
-     http://downloads.sourceforge.net/project/giflib/giflib-5.1.2.tar.bz2
+    http://downloads.sourceforge.net/project/giflib/giflib-5.1.2.tar.bz2
 
 # no downloads for glut
 
 gmp
-     https://gmplib.org/download/gmp/gmp-6.0.0a.tar.bz2
+    https://gmplib.org/download/gmp/gmp-6.0.0a.tar.bz2
 
 # no downloads for gmsh
 
 googletest
-     git://https://github.com/google/googletest.git
+    # git ref: fe4d5f10840c5f62b984364a4d41719f1bc079a2
+    git://https://github.com/google/googletest.git
 
 hara
-     git://https://github.com/wajihboukaram/hara
+    # git ref: origin/opt_dist_sz
+    git://https://github.com/wajihboukaram/hara
 
 hdf5
-     https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.bz2
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/hdf5-1.12.0.tar.bz2
+    https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.bz2
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/hdf5-1.12.0.tar.bz2
 
 # no downloads for hip
 
 hpddm
-     git://https://github.com/hpddm/hpddm
-     https://github.com/hpddm/hpddm/archive/882ec10.tar.gz
+    # git ref: 882ec10
+    git://https://github.com/hpddm/hpddm
+    https://github.com/hpddm/hpddm/archive/882ec10.tar.gz
 
 hwloc
-     http://www.open-mpi.org/software/hwloc/v2.2/downloads/hwloc-2.2.0.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/hwloc-2.2.0.tar.gz
+    http://www.open-mpi.org/software/hwloc/v2.2/downloads/hwloc-2.2.0.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/hwloc-2.2.0.tar.gz
 
 hypre
-     git://https://github.com/hypre-space/hypre
-     https://github.com/hypre-space/hypre/archive/v2.19.0.tar.gz
+    # git ref: v2.19.0
+    git://https://github.com/hypre-space/hypre
+    https://github.com/hypre-space/hypre/archive/v2.19.0.tar.gz
 
 kblas
-     git://https://github.com/wajihboukaram/kblas-gpu-dev.git
+    # git ref: b769b6d
+    git://https://github.com/wajihboukaram/kblas-gpu-dev.git
 
 kokkos-kernels
-     git://https://github.com/kokkos/kokkos-kernels.git
+    # git ref: 3.2.00
+    git://https://github.com/kokkos/kokkos-kernels.git
 
 kokkos
-     git://https://github.com/kokkos/kokkos.git
+    # git ref: 3.2.00
+    git://https://github.com/kokkos/kokkos.git
 
 lgrind
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/lgrind-dev.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/lgrind-dev.tar.gz
 
 libceed
-     git://https://github.com/CEED/libceed.git
+    # git ref: origin/main
+    git://https://github.com/CEED/libceed.git
 
 libjpeg
-     http://www.ijg.org/files/jpegsrc.v9c.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/jpegsrc.v9c.tar.gz
+    http://www.ijg.org/files/jpegsrc.v9c.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/jpegsrc.v9c.tar.gz
 
 libmesh
-     git://https://github.com/libMesh/libmesh.git
+    # git ref: 668c2e36991b0a2c39275949277e6ce817414f94
+    git://https://github.com/libMesh/libmesh.git
 
 libpng
-     https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/libpng-1.6.37.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/libpng-1.6.37.tar.gz
+    https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/libpng-1.6.37.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/libpng-1.6.37.tar.gz
 
 magma
-     https://bitbucket.org/icl/magma/get/v2.5.2.tar.gz
+    # git ref: v2.5.2
+    https://bitbucket.org/icl/magma/get/v2.5.2.tar.gz
 
 make
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/make-4.2.1-6.fc28.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/make-4.2.1-6.fc28.tar.gz
 
 # no downloads for mathlib
 
 med
-     git://https://bitbucket.org/petsc/pkg-med.git
-     https://bitbucket.org/petsc/pkg-med/get/maint-4.0.0.tar.gz
+    # git ref: origin/maint-4.0.0
+    git://https://bitbucket.org/petsc/pkg-med.git
+    https://bitbucket.org/petsc/pkg-med/get/maint-4.0.0.tar.gz
 
 # no downloads for memkind
 
 metis
-     git://https://bitbucket.org/petsc/pkg-metis.git
-     https://bitbucket.org/petsc/pkg-metis/get/v5.1.0-p10.tar.gz
+    # git ref: v5.1.0-p10
+    git://https://bitbucket.org/petsc/pkg-metis.git
+    https://bitbucket.org/petsc/pkg-metis/get/v5.1.0-p10.tar.gz
 
 # no downloads for mkl_cpardiso
 
@@ -269,36 +311,40 @@ metis
 # no downloads for mkl_sparse_optimize
 
 ml
-     git://https://bitbucket.org/petsc/pkg-ml.git
-     https://bitbucket.org/petsc/pkg-ml/get/v6.2-p4.tar.gz
+    # git ref: v6.2-p4
+    git://https://bitbucket.org/petsc/pkg-ml.git
+    https://bitbucket.org/petsc/pkg-ml/get/v6.2-p4.tar.gz
 
 moose
-     git://https://github.com/idaholab/moose.git
+    # git ref: 993719694528eec103be499d263e274696ff58d9
+    git://https://github.com/idaholab/moose.git
 
 mpe
-     ftp://ftp.mcs.anl.gov/pub/mpi/mpe/mpe2.tar.gz
+    ftp://ftp.mcs.anl.gov/pub/mpi/mpe/mpe2.tar.gz
 
 mpfr
-     http://www.mpfr.org/mpfr-3.1.5/mpfr-3.1.5.tar.gz
+    http://www.mpfr.org/mpfr-3.1.5/mpfr-3.1.5.tar.gz
 
 mpi4py
-     https://bitbucket.org/mpi4py/mpi4py/downloads/mpi4py-3.0.3.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/mpi4py-3.0.3.tar.gz
+    https://bitbucket.org/mpi4py/mpi4py/downloads/mpi4py-3.0.3.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/mpi4py-3.0.3.tar.gz
 
 mstk
-     git://https://github.com/MeshToolkit/MSTK
-     https://github.com/MeshToolkit/MSTK/archive65328ea.tar.gz
+    # git ref: 65328ea
+    git://https://github.com/MeshToolkit/MSTK
+    https://github.com/MeshToolkit/MSTK/archive65328ea.tar.gz
 
 muparser
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/muparser_v2_2_4.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/muparser_v2_2_4.tar.gz
 
 netcdf
-     https://github.com/Unidata/netcdf-c/archive/v4.5.0.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/netcdf-4.5.0.tar.gz
+    https://github.com/Unidata/netcdf-c/archive/v4.5.0.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/netcdf-4.5.0.tar.gz
 
 openblas
-     git://https://github.com/xianyi/OpenBLAS.git
-     https://github.com/xianyi/OpenBLAS/archive/e7c4d6705a41910240dd19b9e7082a422563bf15.tar.gz
+    # git ref: e7c4d6705a41910240dd19b9e7082a422563bf15
+    git://https://github.com/xianyi/OpenBLAS.git
+    https://github.com/xianyi/OpenBLAS/archive/e7c4d6705a41910240dd19b9e7082a422563bf15.tar.gz
 
 # no downloads for opencl
 
@@ -309,115 +355,138 @@ openblas
 # no downloads for openmp
 
 p4est
-     git://https://github.com/tisaac/p4est
-     https://github.com/tisaac/p4est/archive/1727693b446ee0c987be701320db0cd5de617cfc.tar.gz
+    # git ref: 1727693b446ee0c987be701320db0cd5de617cfc
+    git://https://github.com/tisaac/p4est
+    https://github.com/tisaac/p4est/archive/1727693b446ee0c987be701320db0cd5de617cfc.tar.gz
 
 parms
-     git://https://bitbucket.org/petsc/pkg-parms.git
-     https://bitbucket.org/petsc/pkg-metis/get/v3.2p5.tar.gz
+    # git ref: v3.2p5
+    git://https://bitbucket.org/petsc/pkg-parms.git
+    https://bitbucket.org/petsc/pkg-metis/get/v3.2p5.tar.gz
 
 # no downloads for pami
 
 parmetis
-     git://https://bitbucket.org/petsc/pkg-parmetis.git
-     https://bitbucket.org/petsc/pkg-parmetis/get/v4.0.3-p6.tar.gz
+    # git ref: v4.0.3-p6
+    git://https://bitbucket.org/petsc/pkg-parmetis.git
+    https://bitbucket.org/petsc/pkg-parmetis/get/v4.0.3-p6.tar.gz
 
 petsc4py
-     link://src/binding/petsc4py
+    link://src/binding/petsc4py
 
 pflotran
-     git://https://bitbucket.org/pflotran/pflotran
+    # git ref: xsdk-0.2.0-rc1
+    git://https://bitbucket.org/pflotran/pflotran
 
 pnetcdf
-     git://https://github.com/parallel-netcdf/pnetcdf
-     https://parallel-netcdf.github.io/Release/pnetcdf-1.12.1.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/pnetcdf-1.12.1.tar.gz
+    # git ref: checkpoint.1.12.1
+    git://https://github.com/parallel-netcdf/pnetcdf
+    https://parallel-netcdf.github.io/Release/pnetcdf-1.12.1.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/pnetcdf-1.12.1.tar.gz
 
 pragmatic
-     git://https://github.com/meshadaptation/pragmatic.git
+    # git ref: 1dfe81ff5f34b16c15ee61adaaa7f4974e5b5135
+    git://https://github.com/meshadaptation/pragmatic.git
 
 # no downloads for pthread
 
 # no downloads for python
 
 radau5
-     git://https://bitbucket.org/petsc/pkg-radau5.git
-     https://bitbucket.org/petsc/pkg-radau5/get/dc161a92a1919ca4a7661ee47fc5c89e3860f258.tar.gz
+    # git ref: dc161a92a1919ca4a7661ee47fc5c89e3860f258
+    git://https://bitbucket.org/petsc/pkg-radau5.git
+    https://bitbucket.org/petsc/pkg-radau5/get/dc161a92a1919ca4a7661ee47fc5c89e3860f258.tar.gz
 
 # no downloads for regex
 
 revolve
-     git://https://bitbucket.org/caidao22/pkg-revolve.git
+    # git ref: 40a0ea2a36058b9ae94920b9479c856371935276
+    git://https://bitbucket.org/caidao22/pkg-revolve.git
 
 saws
-     git://https://bitbucket.org/saws/saws.git
-     https://bitbucket.org/saws/saws/get/c483e26.tar.gz
+    # git ref: c483e26
+    git://https://bitbucket.org/saws/saws.git
+    https://bitbucket.org/saws/saws/get/c483e26.tar.gz
 
 scalapack
-     git://https://bitbucket.org/petsc/pkg-scalapack
-     https://bitbucket.org/petsc/pkg-scalapack/get/v2.1.0-p2.tar.gz
+    # git ref: v2.1.0-p2
+    git://https://bitbucket.org/petsc/pkg-scalapack
+    https://bitbucket.org/petsc/pkg-scalapack/get/v2.1.0-p2.tar.gz
 
 silo
-     https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/silo/silo-4.10/silo-4.10-bsd-smalltest.tar.gz
+    https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/silo/silo-4.10/silo-4.10-bsd-smalltest.tar.gz
 
 slepc
-     git://https://gitlab.com/slepc/slepc.git
-     https://gitlab.com/slepc/slepc/-/archive/v3.14/slepc-v3.14.tar.gz
+    # git ref: v3.14
+    git://https://gitlab.com/slepc/slepc.git
+    https://gitlab.com/slepc/slepc/-/archive/v3.14/slepc-v3.14.tar.gz
 
 sowing
-     git://https://bitbucket.org/petsc/pkg-sowing.git
-     https://bitbucket.org/petsc/pkg-sowing/get/v1.1.26-p1.tar.gz
+    # git ref: v1.1.26-p1
+    git://https://bitbucket.org/petsc/pkg-sowing.git
+    https://bitbucket.org/petsc/pkg-sowing/get/v1.1.26-p1.tar.gz
 
 spai
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/spai-3.0-p1.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/spai-3.0-p1.tar.gz
 
 sprng
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/sprng-1.0.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/sprng-1.0.tar.gz
 
 # no downloads for ssl
 
 strumpack
-     git://https://github.com/pghysels/STRUMPACK
-     https://github.com/pghysels/STRUMPACK/archive/v3.1.1.tar.gz
+    # git ref: v3.1.1
+    git://https://github.com/pghysels/STRUMPACK
+    https://github.com/pghysels/STRUMPACK/archive/v3.1.1.tar.gz
 
 sundials
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/sundials-2.5.0p1.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/sundials-2.5.0p1.tar.gz
 
 # no downloads for sycl
 
 szlib
-     https://support.hdfgroup.org/ftp/lib-external/szip/2.1.1/src/szip-2.1.1.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/szip-2.1.1.tar.gz
+    https://support.hdfgroup.org/ftp/lib-external/szip/2.1.1/src/szip-2.1.1.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/szip-2.1.1.tar.gz
 
 tchem
-     git://https://bitbucket.org/jedbrown/tchem.git
+    # git ref: 81601d2
+    git://https://bitbucket.org/jedbrown/tchem.git
 
 tetgen
-     http://www.tetgen.org/1.5/src/tetgen1.5.1.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/tetgen1.5.1.tar.gz
+    http://www.tetgen.org/1.5/src/tetgen1.5.1.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/tetgen1.5.1.tar.gz
 
 thrust
-     git://https://github.com/NVIDIA/thrust.git
+    # git ref: 1.10.0
+    git://https://github.com/NVIDIA/thrust.git
 
 unittestcpp
-     https://github.com/unittest-cpp/unittest-cpp/archive/v1.5.0.tar.gz
+    https://github.com/unittest-cpp/unittest-cpp/archive/v1.5.0.tar.gz
 
 # no downloads for valgrind
 
 viennacl
-     git://https://github.com/viennacl/viennacl-dev
+    # git ref: dc552a8
+    git://https://github.com/viennacl/viennacl-dev
 
 xsdktrilinos
-     https://github.com/trilinos/xSDKTrilinos/archive/0ddbf6e.tar.gz
-     git://https://github.com/trilinos/xSDKTrilinos.git
+    # git ref: 0ddbf6e
+    https://github.com/trilinos/xSDKTrilinos/archive/0ddbf6e.tar.gz
+    git://https://github.com/trilinos/xSDKTrilinos.git
 
 yaml
-     http://pyyaml.org/download/libyaml/yaml-0.1.4.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/yaml-0.1.4.tar.gz
+    http://pyyaml.org/download/libyaml/yaml-0.1.4.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/yaml-0.1.4.tar.gz
 
 zlib
-     http://www.zlib.net/zlib-1.2.11.tar.gz
-     http://ftp.mcs.anl.gov/pub/petsc/externalpackages/zlib-1.2.11.tar.gz
+    http://www.zlib.net/zlib-1.2.11.tar.gz
+    http://ftp.mcs.anl.gov/pub/petsc/externalpackages/zlib-1.2.11.tar.gz
 
 zstd
-     https://github.com/facebook/zstd/archive/v1.4.4.tar.gz
+    https://github.com/facebook/zstd/archive/v1.4.4.tar.gz
+
+# 62  git
+# 51  https
+# 44  http
+#  1  ftp
+#  1  link
